@@ -1,0 +1,2 @@
+
+    file = request.files['file']
